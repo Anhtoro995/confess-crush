@@ -1,20 +1,18 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
+    titleWeb: "Happy Women's Day",
     introTitle: 'Thúy Hằng',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    introDesc: `Hôm nay là 8/3, anh chỉ muốn chúc em luôn vui vẻ, 
+                mạnh khỏe và gặp thật nhiều điều tốt đẹp trong cuộc sống.`,
+    btnIntro: '^^ Nắm Tay Đi Tiếp Nào^^',
+    title: 'Anh ĐÃ Về Với Em Rồi 🥰',
+    desc: 'Tha thứ và cho nhau một lần nữa để ở bên nhau, cùng nhau thấu hiểu và  hạnh phúc nhé',
+    btnYes: 'Em Đồng Ý',
+    btnNo: 'Em Không Đồng Ý',
+    question: 'Điều anh muốn nói là ↓',
+    btnReply: 'Đi Tiếp Nhé 🥰 ',
+    reply: 'Dù Trái Tim Anh Có Vỡ Ra Hàng Trăm Mảnh, Thì Hàng Trăm Mảnh Vỡ Đó Vẫn Yếu Thương Em đến Hết Đời ',
+    mess: '  😘😘',
+    messDesc: 'Chờ Đợi Món Quà Của Anh Nhé',
+    btnAccept: '😘',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
