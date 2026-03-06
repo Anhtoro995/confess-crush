@@ -8,7 +8,7 @@ const CONFIG = {
     desc: 'Tha thứ và cho nhau một lần nữa để ở bên nhau, cùng nhau thấu hiểu và  hạnh phúc nhé',
     btnYes: 'Em Đồng Ý',
     btnNo: 'Em Không Đồng Ý',
-    question: 'Điều anh muốn nói là ↓',
+    question: 'Điều anh muốn nói là ↓Gõ Đi Ạ↓',
     btnReply: 'Đi Tiếp Nhé 🥰 ',
     reply: 'Dù Trái Tim Anh Có Vỡ Ra Hàng Trăm Mảnh, Thì Hàng Trăm Mảnh Vỡ Đó Vẫn Yếu Thương Em đến Hết Đời ',
     mess: '  😘😘',
