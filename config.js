@@ -10,7 +10,7 @@ const CONFIG = {
     btnNo: 'Em Không Đồng Ý',
     question: 'Điều anh muốn nói là ↓Gõ Đi Ạ↓',
     btnReply: 'Đi Tiếp Nhé 🥰 ',
-    reply: 'Dù Trái Tim Anh Có Vỡ Ra Hàng Trăm Mảnh, Thì Hàng Trăm Mảnh Vỡ Đó Vẫn Yếu Thương Em đến Hết Đời ',
+    reply: 'Dù Trái Tim Anh Có Vỡ Ra Hàng Trăm Mảnh, Thì Hàng Trăm Mảnh Vỡ Đó Vẫn Yêu Thương Em Đến Hết Đời ',
     mess: '  😘😘',
     messDesc: 'Chờ Đợi Món Quà Của Anh Nhé',
     btnAccept: '😘',
